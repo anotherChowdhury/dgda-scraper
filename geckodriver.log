@@ -1,0 +1,810 @@
+1633583697002	geckodriver	INFO	Listening on 127.0.0.1:39057
+1633583698014	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileuaho1j"
+Gtk-Message: 11:14:58.181: Failed to load module "appmenu-gtk-module"
+1633583700391	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileuaho1j/search.json.mozlz4", (void 0)))
+1633583703841	Marionette	INFO	Listening on port 45367
+1633583703986	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1633583735640	Marionette	INFO	Stopped listening on port 45367
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1633583738682	geckodriver	INFO	Listening on 127.0.0.1:35335
+1633583738695	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileuAqmOS"
+Gtk-Message: 11:15:38.737: Failed to load module "appmenu-gtk-module"
+1633583740481	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileuAqmOS/search.json.mozlz4", (void 0)))
+1633583743533	Marionette	INFO	Listening on port 36781
+1633583743644	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1633583749353	Marionette	INFO	Stopped listening on port 36781
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1633584276900	geckodriver	INFO	Listening on 127.0.0.1:51867
+1633584277901	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileW86yne"
+Gtk-Message: 11:24:38.090: Failed to load module "appmenu-gtk-module"
+1633584280277	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileW86yne/search.json.mozlz4", (void 0)))
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.error: "Could not load engine ddg@search.mozilla.org: Error: Data is not ready."
+console.warn: SearchService: "_init: abandoning init due to shutting down"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: uncaught exception: 2147500036
+1633584298132	geckodriver	INFO	Listening on 127.0.0.1:47011
+1633584299141	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "-no-remote" "-profile" "/tmp/rust_mozprofile5mV1jn"
+*** You are running in headless mode.
+Gtk-Message: 11:24:59.268: Failed to load module "appmenu-gtk-module"
+1633584300104	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile5mV1jn/search.json.mozlz4", (void 0)))
+1633584302162	Marionette	INFO	Listening on port 45417
+1633584302313	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1633584334155	geckodriver	INFO	Listening on 127.0.0.1:48789
+1633584334166	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "-no-remote" "-profile" "/tmp/rust_mozprofilefLmpBR"
+*** You are running in headless mode.
+Gtk-Message: 11:25:34.339: Failed to load module "appmenu-gtk-module"
+1633584335562	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilefLmpBR/search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1633584517709	geckodriver	INFO	Listening on 127.0.0.1:40215
+1633584517752	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "-no-remote" "-profile" "/tmp/rust_mozprofileVjcHUp"
+*** You are running in headless mode.
+Gtk-Message: 11:28:38.279: Failed to load module "appmenu-gtk-module"
+1633584523867	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileVjcHUp/search.json.mozlz4", (void 0)))
+1633584532611	Marionette	INFO	Listening on port 37043
+1633584532715	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1633584561635	geckodriver	INFO	Listening on 127.0.0.1:38525
+1633584561662	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "-no-remote" "-profile" "/tmp/rust_mozprofileeUHVvA"
+*** You are running in headless mode.
+Gtk-Message: 11:29:21.960: Failed to load module "appmenu-gtk-module"
+1633584564094	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileeUHVvA/search.json.mozlz4", (void 0)))
+1633584571418	Marionette	INFO	Listening on port 35055
+1633584571869	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1633584901431	geckodriver	INFO	Listening on 127.0.0.1:34441
+1633584902438	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "-no-remote" "-profile" "/tmp/rust_mozprofilevdOCyY"
+*** You are running in headless mode.
+Gtk-Message: 11:35:02.520: Failed to load module "appmenu-gtk-module"
+1633584904042	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilevdOCyY/search.json.mozlz4", (void 0)))
+1633584908238	Marionette	INFO	Listening on port 41625
+1633584908373	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1633584979850	geckodriver	INFO	Listening on 127.0.0.1:35857
+1633584979862	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "-no-remote" "-profile" "/tmp/rust_mozprofiletwQ3vK"
+*** You are running in headless mode.
+Gtk-Message: 11:36:19.920: Failed to load module "appmenu-gtk-module"
+1633584981134	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofiletwQ3vK/search.json.mozlz4", (void 0)))
+1633584984800	Marionette	INFO	Listening on port 39229
+1633584984862	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1633584996208	Marionette	INFO	Stopped listening on port 39229
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1633586989660	geckodriver	INFO	Listening on 127.0.0.1:55991
+1633586990658	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileVMDV2L"
+Gtk-Message: 12:09:50.827: Failed to load module "appmenu-gtk-module"
+1633586993707	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileVMDV2L/search.json.mozlz4", (void 0)))
+1633586998706	Marionette	INFO	Listening on port 43235
+1633586998810	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1633587038531	Marionette	INFO	Stopped listening on port 43235
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1633587049136	geckodriver	INFO	Listening on 127.0.0.1:53943
+1633587049157	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileyS8i2o"
+Gtk-Message: 12:10:49.293: Failed to load module "appmenu-gtk-module"
+1633587052153	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileyS8i2o/search.json.mozlz4", (void 0)))
+1633587056864	Marionette	INFO	Listening on port 40809
+1633587056993	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request http://weloveiconfonts.com/api/?family=brandico without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://cdn.jsdelivr.net/npm/simple-line-icons@2.4.1/css/simple-line-icons.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://dgda.gov.bd/components/com_k2/css/k2.css?v=2.10.3&b=20200429 without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://dgda.gov.bd/templates/rt_afterburner/css/light2.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://dgda.gov.bd/administrator/components/com_jcode/source/css/font-awesome.min.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://dgda.gov.bd/administrator/components/com_jcode/source/css/main.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://dgda.gov.bd/administrator/components/com_jcode/source/css/settings.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://dgda.gov.bd/administrator/components/com_jcode/source/css/template.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://dgda.gov.bd/administrator/components/com_jcode/source/css/demo_table_jui.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://dgda.gov.bd/administrator/components/com_jcode/source/css/smoothness/jquery-ui-1.9.1.custom.min.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://dgda.gov.bd/administrator/components/com_jcode/source/css/validationEngine.jquery.css without a browsingContextID set
+1633587209488	geckodriver	INFO	Listening on 127.0.0.1:59617
+1633587209501	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofilePVjRvl"
+Gtk-Message: 12:13:29.657: Failed to load module "appmenu-gtk-module"
+1633587212502	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilePVjRvl/search.json.mozlz4", (void 0)))
+1633587217917	Marionette	INFO	Listening on port 35565
+1633587218076	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: "Async method failed in safeAsyncMethod" (new Error("Connection closed, pending request to server0.conn0.child4/customhighlighter59, type show failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:289:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\nshow@resource://devtools/client/fronts/highlighters.js:27:18\nexports.safeAsyncMethod/<@resource://devtools/shared/async-utils.js:55:25\nshowHighlighterTypeForNode@resource://devtools/client/inspector/shared/highlighters-overlay.js:581:23\n", "resource://devtools/shared/protocol/Front.js", 103))
+console.warn: "Inspector destroyed while executing onReflow callback"
+console.error: "Error while calling actor 'watcher's method 'watchResources'" "An attempt was made to use an object that is not, or is no longer, usable"
+console.error: (new InvalidStateError("An attempt was made to use an object that is not, or is no longer, usable", (void 0), 101))
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+console.error: "Tried to send a 'getApplied' method reply on an already destroyed actor 'pagestyle'"
+console.error: "Error while calling actor 'pagestyle's method 'getApplied'" "this.pageStyle is null"
+console.error: (new TypeError("this.pageStyle is null", "resource://devtools/server/actors/style-rule.js", 584))
+console.error: "Error while calling actor 'pagestyle's method 'getApplied'" "this.pageStyle is null"
+console.error: (new TypeError("this.pageStyle is null", "resource://devtools/server/actors/style-rule.js", 584))
+console.error: "Tried to send a 'getLayout' method reply on an already destroyed actor 'pagestyle'"
+console.error: "Tried to send a 'getLayout' method reply on an already destroyed actor 'pagestyle'"
+console.error: "Error while calling actor 'pagestyle's method 'getApplied'" "this.pageStyle is null"
+console.error: (new TypeError("this.pageStyle is null", "resource://devtools/server/actors/style-rule.js", 584))
+
+(firefox:110210): GLib-GObject-CRITICAL **: 12:14:23.053: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:110210): GLib-GObject-CRITICAL **: 12:14:23.053: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:110210): GLib-GObject-CRITICAL **: 12:14:23.056: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:110210): GLib-GObject-CRITICAL **: 12:14:23.056: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:110210): GLib-GObject-CRITICAL **: 12:14:23.057: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:110210): GLib-GObject-CRITICAL **: 12:14:23.057: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:110210): GLib-GObject-CRITICAL **: 12:14:23.057: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:110210): GLib-GObject-CRITICAL **: 12:14:23.057: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:110210): GLib-GObject-CRITICAL **: 12:14:23.059: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:110210): GLib-GObject-CRITICAL **: 12:14:23.275: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+console.error: (new Error("Connection closed, pending request to server0.conn1.child4/accessiblewalker23, type unhighlight failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:289:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\nunhighlightAccessible@resource://devtools/client/accessibility/accessibility-proxy.js:382:27\nunhighlight@resource://devtools/client/accessibility/components/AccessibilityRow.js:243:16\ncomponentDidUpdate@resource://devtools/client/accessibility/components/AccessibilityRow.js:130:12\ncommitLifeCycles@resource://devtools/client/shared/vendor/react-dom.js:12958:22\ncommitAllLifeCycles@resource://devtools/client/shared/vendor/react-dom.js:14174:23\ncommitRoot@resource://devtools/client/shared/vendor/react-dom.js:14380:28\ncompleteRoot/<@resource://devtools/client/shared/vendor/react-dom.js:15731:15\nunstable_runWithPriority@resource://devtools/client/shared/vendor/react.js:617:12\ncompleteRoot@resource://devtools/client/shared/vendor/react-dom.js:15730:27\nperformWorkOnRoot@resource://devtools/client/shared/vendor/react-dom.js:15659:21\nperformWork@resource://devtools/client/shared/vendor/react-dom.js:15567:24\nperformSyncWork@resource://devtools/client/shared/vendor/react-dom.js:15541:14\nrequestWork@resource://devtools/client/shared/vendor/react-dom.js:15410:5\nscheduleWork@resource://devtools/client/shared/vendor/react-dom.js:15224:16\nenqueueSetState@resource://devtools/client/shared/vendor/react-dom.js:8192:17\nComponent.prototype.setState@resource://devtools/client/shared/vendor/react.js:328:16\nonStateChange@resource://devtools/client/shared/vendor/react-redux.js:1412:16\nnotify@resource://devtools/client/shared/vendor/react-redux.js:1159:21\nnotifyNestedSubs@resource://devtools/client/shared/vendor/react-redux.js:1198:20\nonStateChange@resource://devtools/client/shared/vendor/react-redux.js:1409:16\ndispatch@resource://devtools/client/shared/vendor/redux.js:265:7\nwaitUntilService/</<@resource://devtools/client/shared/redux/middleware/wait-service.js:59:24\npromiseMiddleware/</<@resource://devtools/client/shared/redux/middleware/promise.js:24:14\nthunk/</</<@resource://devtools/client/shared/redux/middleware/thunk.js:18:11\ndispatch@resource://devtools/client/shared/vendor/redux.js:681:28\nexports.fetchChildren/</<@resource://devtools/client/accessibility/actions/accessibles.js:20:31\n", "resource://devtools/shared/protocol/Front.js", 103))
+console.error: (new Error("Connection closed, pending request to server0.conn1.child4/accessiblewalker23, type highlightAccessible failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:289:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\nhighlightAccessible@resource://devtools/client/accessibility/accessibility-proxy.js:362:8\nhighlight@resource://devtools/client/accessibility/components/AccessibilityRow.js:238:16\ncomponentDidUpdate@resource://devtools/client/accessibility/components/AccessibilityRow.js:132:12\ncommitLifeCycles@resource://devtools/client/shared/vendor/react-dom.js:12958:22\ncommitAllLifeCycles@resource://devtools/client/shared/vendor/react-dom.js:14174:23\ncommitRoot@resource://devtools/client/shared/vendor/react-dom.js:14380:28\ncompleteRoot/<@resource://devtools/client/shared/vendor/react-dom.js:15731:15\nunstable_runWithPriority@resource://devtools/client/shared/vendor/react.js:617:12\ncompleteRoot@resource://devtools/client/shared/vendor/react-dom.js:15730:27\nperformWorkOnRoot@resource://devtools/client/shared/vendor/react-dom.js:15659:21\nperformWork@resource://devtools/client/shared/vendor/react-dom.js:15567:24\nperformSyncWork@resource://devtools/client/shared/vendor/react-dom.js:15541:14\nrequestWork@resource://devtools/client/shared/vendor/react-dom.js:15410:5\nscheduleWork@resource://devtools/client/shared/vendor/react-dom.js:15224:16\nenqueueSetState@resource://devtools/client/shared/vendor/react-dom.js:8192:17\nComponent.prototype.setState@resource://devtools/client/shared/vendor/react.js:328:16\nonStateChange@resource://devtools/client/shared/vendor/react-redux.js:1412:16\nnotify@resource://devtools/client/shared/vendor/react-redux.js:1159:21\nnotifyNestedSubs@resource://devtools/client/shared/vendor/react-redux.js:1198:20\nonStateChange@resource://devtools/client/shared/vendor/react-redux.js:1409:16\ndispatch@resource://devtools/client/shared/vendor/redux.js:265:7\nwaitUntilService/</<@resource://devtools/client/shared/redux/middleware/wait-service.js:59:24\npromiseMiddleware/</<@resource://devtools/client/shared/redux/middleware/promise.js:24:14\nthunk/</</<@resource://devtools/client/shared/redux/middleware/thunk.js:18:11\ndispatch@resource://devtools/client/shared/vendor/redux.js:681:28\nexports.fetchChildren/</<@resource://devtools/client/accessibility/actions/accessibles.js:20:31\n", "resource://devtools/shared/protocol/Front.js", 103))
+console.warn: "Error while destroying front:" "inspector" (new Error("Connection closed, pending request to server0.conn1.watcher2, type watchResources failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:289:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\n_startListening@resource://devtools/shared/commands/resource/resource-command.js:927:31\n", "resource://devtools/shared/protocol/Front.js", 103))
+console.error: "Error while calling actor 'watcher's method 'watchResources'" "An attempt was made to use an object that is not, or is no longer, usable"
+console.error: (new InvalidStateError("An attempt was made to use an object that is not, or is no longer, usable", (void 0), 101))
+JavaScript error: resource://devtools/shared/protocol/Front.js, line 103: Error: Connection closed, pending request to server0.conn1.watcher2, type watchResources failed
+
+Request stack:
+request@resource://devtools/shared/protocol/Front.js:289:14
+generateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19
+_startListening@resource://devtools/shared/commands/resource/resource-command.js:927:31
+
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request http://weloveiconfonts.com/api/?family=brandico without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://cdn.jsdelivr.net/npm/simple-line-icons@2.4.1/css/simple-line-icons.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://dgda.gov.bd/components/com_k2/css/k2.css?v=2.10.3&b=20200429 without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://dgda.gov.bd/templates/rt_afterburner/css/light2.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://dgda.gov.bd/administrator/components/com_jcode/source/css/font-awesome.min.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://dgda.gov.bd/administrator/components/com_jcode/source/css/main.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://dgda.gov.bd/administrator/components/com_jcode/source/css/settings.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://dgda.gov.bd/administrator/components/com_jcode/source/css/template.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://dgda.gov.bd/administrator/components/com_jcode/source/css/demo_table_jui.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://dgda.gov.bd/administrator/components/com_jcode/source/css/smoothness/jquery-ui-1.9.1.custom.min.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://dgda.gov.bd/administrator/components/com_jcode/source/css/validationEngine.jquery.css without a browsingContextID set
+1633587383502	Marionette	INFO	Stopped listening on port 40809
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1633587388016	geckodriver	INFO	Listening on 127.0.0.1:52557
+1633587389030	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileO2ioh7"
+Gtk-Message: 12:16:29.243: Failed to load module "appmenu-gtk-module"
+1633587392583	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileO2ioh7/search.json.mozlz4", (void 0)))
+1633587397881	Marionette	INFO	Listening on port 39001
+1633587398003	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1633587409054	Marionette	INFO	Stopped listening on port 39001
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1633587451850	geckodriver	INFO	Listening on 127.0.0.1:51017
+1633587451864	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileyVwQtq"
+Gtk-Message: 12:17:31.936: Failed to load module "appmenu-gtk-module"
+1633587454757	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileyVwQtq/search.json.mozlz4", (void 0)))
+1633587459423	Marionette	INFO	Listening on port 37213
+1633587459577	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1633587504519	geckodriver	INFO	Listening on 127.0.0.1:51851
+1633587505535	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofilevfyZxI"
+Gtk-Message: 12:18:25.813: Failed to load module "appmenu-gtk-module"
+1633587510932	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilevfyZxI/search.json.mozlz4", (void 0)))
+1633587520191	Marionette	INFO	Listening on port 44697
+1633587520366	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1633587586936	geckodriver	INFO	Listening on 127.0.0.1:40971
+1633587587958	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileRC3iCX"
+Gtk-Message: 12:19:48.455: Failed to load module "appmenu-gtk-module"
+1633587599081	Marionette	INFO	Marionette enabled
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileRC3iCX/search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1633587620343	Marionette	INFO	Listening on port 40477
+1633587620942	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1633587714735	Marionette	INFO	Stopped listening on port 37213
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1633587716646	Marionette	INFO	Stopped listening on port 44697
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1633587717618	Marionette	INFO	Stopped listening on port 40477
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1633587724097	Marionette	INFO	Stopped listening on port 35565
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1633587754842	geckodriver	INFO	Listening on 127.0.0.1:38987
+1633587755849	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofilefoXr28"
+Gtk-Message: 12:22:36.001: Failed to load module "appmenu-gtk-module"
+1633587766201	geckodriver	INFO	Listening on 127.0.0.1:50829
+1633587766214	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "-no-remote" "-profile" "/tmp/rust_mozprofile9tji6A"
+*** You are running in headless mode.
+Gtk-Message: 12:22:46.275: Failed to load module "appmenu-gtk-module"
+1633587767878	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile9tji6A/search.json.mozlz4", (void 0)))
+1633587772141	Marionette	INFO	Listening on port 33651
+1633587772261	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1633587984527	geckodriver	INFO	Listening on 127.0.0.1:55601
+1633587985535	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofilea4UE4c"
+Gtk-Message: 12:26:25.600: Failed to load module "appmenu-gtk-module"
+1633587988358	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilea4UE4c/search.json.mozlz4", (void 0)))
+1633587993504	Marionette	INFO	Listening on port 44679
+1633587993673	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1633588093352	geckodriver	INFO	Listening on 127.0.0.1:58075
+1633588094385	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileqA3Ilf"
+Gtk-Message: 12:28:14.639: Failed to load module "appmenu-gtk-module"
+1633588098997	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileqA3Ilf/search.json.mozlz4", (void 0)))
+1633588105680	Marionette	INFO	Listening on port 45281
+1633588105792	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1633588109370	Marionette	INFO	Stopped listening on port 44679
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1633588430019	geckodriver	INFO	Listening on 127.0.0.1:59319
+1633588431047	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "-no-remote" "-profile" "/tmp/rust_mozprofile47y2YD"
+*** You are running in headless mode.
+Gtk-Message: 12:33:51.396: Failed to load module "appmenu-gtk-module"
+1633588432848	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile47y2YD/search.json.mozlz4", (void 0)))
+1633588438309	Marionette	INFO	Listening on port 38921
+1633588438424	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1633588489510	addons.xpi	ERROR	System addon update list error Error: got node name: parsererror, expected: updates
+1633588592660	geckodriver	INFO	Listening on 127.0.0.1:41621
+1633588592682	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "-no-remote" "-profile" "/tmp/rust_mozprofileUaaknJ"
+*** You are running in headless mode.
+Gtk-Message: 12:36:32.828: Failed to load module "appmenu-gtk-module"
+1633588594638	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileUaaknJ/search.json.mozlz4", (void 0)))
+1633588599932	Marionette	INFO	Listening on port 33833
+1633588600030	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1633588740960	geckodriver	INFO	Listening on 127.0.0.1:47585
+1633588741026	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "-no-remote" "-profile" "/tmp/rust_mozprofileMvy4xY"
+*** You are running in headless mode.
+Gtk-Message: 12:39:01.328: Failed to load module "appmenu-gtk-module"
+1633588744042	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileMvy4xY/search.json.mozlz4", (void 0)))
+1633588751938	Marionette	INFO	Listening on port 44331
+1633588752140	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1633588767574	Marionette	INFO	Stopped listening on port 44331
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1633588788326	geckodriver	INFO	Listening on 127.0.0.1:41409
+1633588788337	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileK7GzWC"
+Gtk-Message: 12:39:48.407: Failed to load module "appmenu-gtk-module"
+1633588792170	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileK7GzWC/search.json.mozlz4", (void 0)))
+1633588798714	Marionette	INFO	Listening on port 35437
+1633588798864	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1633588814019	Marionette	INFO	Stopped listening on port 35437
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1633589108967	geckodriver	INFO	Listening on 127.0.0.1:51977
+1633589109973	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileHkzzsx"
+Gtk-Message: 12:45:10.192: Failed to load module "appmenu-gtk-module"
+1633589113852	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileHkzzsx/search.json.mozlz4", (void 0)))
+1633589120167	Marionette	INFO	Listening on port 33273
+1633589120347	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1633589134386	Marionette	INFO	Stopped listening on port 33273
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1633589166501	geckodriver	INFO	Listening on 127.0.0.1:45089
+1633589166539	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileO3uc29"
+Gtk-Message: 12:46:06.946: Failed to load module "appmenu-gtk-module"
+1633589173779	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileO3uc29/search.json.mozlz4", (void 0)))
+1633589181830	Marionette	INFO	Listening on port 38541
+1633589182002	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1633589194221	Marionette	INFO	Stopped listening on port 38541
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1633589380234	geckodriver	INFO	Listening on 127.0.0.1:33835
+1633589380261	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "-no-remote" "-profile" "/tmp/rust_mozprofileUFCiJZ"
+*** You are running in headless mode.
+Gtk-Message: 12:49:40.438: Failed to load module "appmenu-gtk-module"
+1633589382939	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileUFCiJZ/search.json.mozlz4", (void 0)))
+1633589391565	Marionette	INFO	Listening on port 34511
+1633589391642	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1633589445034	geckodriver	INFO	Listening on 127.0.0.1:58085
+1633589446058	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "-no-remote" "-profile" "/tmp/rust_mozprofileZfCeuS"
+*** You are running in headless mode.
+Gtk-Message: 12:50:46.489: Failed to load module "appmenu-gtk-module"
+1633589448903	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileZfCeuS/search.json.mozlz4", (void 0)))
+1633589453911	Marionette	INFO	Listening on port 32843
+1633589454020	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1633589532286	geckodriver	INFO	Listening on 127.0.0.1:46965
+1633589532295	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "-no-remote" "-profile" "/tmp/rust_mozprofilevRYmbx"
+*** You are running in headless mode.
+Gtk-Message: 12:52:12.325: Failed to load module "appmenu-gtk-module"
+1633589532861	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilevRYmbx/search.json.mozlz4", (void 0)))
+1633589534436	Marionette	INFO	Listening on port 42143
+1633589534524	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1633589596165	geckodriver	INFO	Listening on 127.0.0.1:42669
+1633589596172	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "-no-remote" "-profile" "/tmp/rust_mozprofileqpswmh"
+*** You are running in headless mode.
+Gtk-Message: 12:53:16.200: Failed to load module "appmenu-gtk-module"
+1633589596735	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileqpswmh/search.json.mozlz4", (void 0)))
+1633589598548	Marionette	INFO	Listening on port 46497
+1633589598607	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1633589874667	Marionette	INFO	Stopped listening on port 46497
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1633591957343	geckodriver	INFO	Listening on 127.0.0.1:45125
+1633591957351	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "-no-remote" "-profile" "/tmp/rust_mozprofileA8UpOh"
+*** You are running in headless mode.
+Gtk-Message: 13:32:37.378: Failed to load module "appmenu-gtk-module"
+1633591957925	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileA8UpOh/search.json.mozlz4", (void 0)))
+1633591959708	Marionette	INFO	Listening on port 45719
+1633591959789	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1633592832602	Marionette	INFO	Stopped listening on port 45719
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1633593514973	geckodriver	INFO	Listening on 127.0.0.1:45815
+1633593515982	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "-no-remote" "-profile" "/tmp/rust_mozprofilevcGiZd"
+*** You are running in headless mode.
+Gtk-Message: 13:58:36.127: Failed to load module "appmenu-gtk-module"
+1633593516973	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilevcGiZd/search.json.mozlz4", (void 0)))
+1633593519058	Marionette	INFO	Listening on port 37305
+1633593519131	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1633594012765	Marionette	INFO	Stopped listening on port 37305
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1633594164349	geckodriver	INFO	Listening on 127.0.0.1:54259
+1633594164357	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "-no-remote" "-profile" "/tmp/rust_mozprofilecbjCXd"
+*** You are running in headless mode.
+Gtk-Message: 14:09:24.479: Failed to load module "appmenu-gtk-module"
+1633594165225	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilecbjCXd/search.json.mozlz4", (void 0)))
+1633594167088	Marionette	INFO	Listening on port 39897
+1633594167217	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1633595388762	Marionette	INFO	Stopped listening on port 39897
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1633595524498	geckodriver	INFO	Listening on 127.0.0.1:54225
+1633595524513	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "-no-remote" "-profile" "/tmp/rust_mozprofile0NOY5l"
+*** You are running in headless mode.
+Gtk-Message: 14:32:04.715: Failed to load module "appmenu-gtk-module"
+1633595525820	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile0NOY5l/search.json.mozlz4", (void 0)))
+1633595527987	Marionette	INFO	Listening on port 45319
+1633595528086	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1633595549498	geckodriver	INFO	Listening on 127.0.0.1:54237
+1633595549509	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "-no-remote" "-profile" "/tmp/rust_mozprofilemJKVm9"
+*** You are running in headless mode.
+Gtk-Message: 14:32:29.542: Failed to load module "appmenu-gtk-module"
+1633595550213	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilemJKVm9/search.json.mozlz4", (void 0)))
+1633595552255	Marionette	INFO	Listening on port 39759
+1633595552362	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1633597219444	Marionette	INFO	Stopped listening on port 39759
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390077,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+1633598480930	geckodriver	INFO	Listening on 127.0.0.1:40259
+1633598480944	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "-no-remote" "-profile" "/tmp/rust_mozprofileNpo1ee"
+*** You are running in headless mode.
+Gtk-Message: 15:21:21.061: Failed to load module "appmenu-gtk-module"
+1633598481887	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileNpo1ee/search.json.mozlz4", (void 0)))
+1633598483952	Marionette	INFO	Listening on port 39321
+1633598484124	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1633601537538	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:238:19
+TimedPromise@chrome://remote/content/marionette/sync.js:223:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1633602062871	Marionette	INFO	Stopped listening on port 39321
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1633602467927	geckodriver	INFO	Listening on 127.0.0.1:50905
+1633602467934	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "-no-remote" "-profile" "/tmp/rust_mozprofilefJy7fS"
+*** You are running in headless mode.
+Gtk-Message: 16:27:48.051: Failed to load module "appmenu-gtk-module"
+1633602468795	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilefJy7fS/search.json.mozlz4", (void 0)))
+1633602470672	Marionette	INFO	Listening on port 40139
+1633602470780	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1633603250860	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:238:19
+TimedPromise@chrome://remote/content/marionette/sync.js:223:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1633603254906	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:238:19
+TimedPromise@chrome://remote/content/marionette/sync.js:223:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1633603281002	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:238:19
+TimedPromise@chrome://remote/content/marionette/sync.js:223:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1633603286309	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:238:19
+TimedPromise@chrome://remote/content/marionette/sync.js:223:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1633603291196	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:238:19
+TimedPromise@chrome://remote/content/marionette/sync.js:223:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1633603303635	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:238:19
+TimedPromise@chrome://remote/content/marionette/sync.js:223:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1633603310888	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:238:19
+TimedPromise@chrome://remote/content/marionette/sync.js:223:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1633603318206	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:238:19
+TimedPromise@chrome://remote/content/marionette/sync.js:223:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1633603337368	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:238:19
+TimedPromise@chrome://remote/content/marionette/sync.js:223:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1633604470762	geckodriver	INFO	Listening on 127.0.0.1:32847
+1633604471771	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "-no-remote" "-profile" "/tmp/rust_mozprofileRcVQ2r"
+*** You are running in headless mode.
+Gtk-Message: 17:01:11.919: Failed to load module "appmenu-gtk-module"
+1633604472811	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileRcVQ2r/search.json.mozlz4", (void 0)))
+1633604474828	Marionette	INFO	Listening on port 34843
+1633604474910	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1633604500209	geckodriver	INFO	Listening on 127.0.0.1:40523
+1633604500217	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "-no-remote" "-profile" "/tmp/rust_mozprofilehGkaUa"
+*** You are running in headless mode.
+Gtk-Message: 17:01:40.267: Failed to load module "appmenu-gtk-module"
+1633604500815	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilehGkaUa/search.json.mozlz4", (void 0)))
+1633604502549	Marionette	INFO	Listening on port 33701
+1633604502648	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1633605347957	geckodriver	INFO	Listening on 127.0.0.1:39629
+1633605348969	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "-no-remote" "-profile" "/tmp/rust_mozprofileTS1mYm"
+*** You are running in headless mode.
+Gtk-Message: 17:15:49.063: Failed to load module "appmenu-gtk-module"
+1633605349738	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileTS1mYm/search.json.mozlz4", (void 0)))
+1633605351864	Marionette	INFO	Listening on port 37915
+1633605351993	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1633606730475	Marionette	INFO	Stopped listening on port 37915
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1633606816242	geckodriver	INFO	Listening on 127.0.0.1:38781
+1633606816251	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "-no-remote" "-profile" "/tmp/rust_mozprofileAB3HuL"
+*** You are running in headless mode.
+Gtk-Message: 17:40:16.334: Failed to load module "appmenu-gtk-module"
+1633606817505	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileAB3HuL/search.json.mozlz4", (void 0)))
+1633606819732	Marionette	INFO	Listening on port 45793
+1633606819808	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1633607960469	Marionette	INFO	Stopped listening on port 45793
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1633608011113	geckodriver	INFO	Listening on 127.0.0.1:50813
+1633608011121	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "-no-remote" "-profile" "/tmp/rust_mozprofileL1NhfA"
+*** You are running in headless mode.
+Gtk-Message: 18:00:11.218: Failed to load module "appmenu-gtk-module"
+1633608011896	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileL1NhfA/search.json.mozlz4", (void 0)))
+1633608013641	Marionette	INFO	Listening on port 35867
+1633608013751	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1633610550766	geckodriver	INFO	Listening on 127.0.0.1:35091
+1633610551774	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "-no-remote" "-profile" "/tmp/rust_mozprofilec1FfFQ"
+*** You are running in headless mode.
+Gtk-Message: 18:42:31.813: Failed to load module "appmenu-gtk-module"
+1633610552406	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilec1FfFQ/search.json.mozlz4", (void 0)))
+1633610554084	Marionette	INFO	Listening on port 38511
+1633610554202	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1633612594860	Marionette	INFO	Stopped listening on port 38511
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1633612669446	geckodriver	INFO	Listening on 127.0.0.1:52865
+1633612670460	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "-no-remote" "-profile" "/tmp/rust_mozprofileti04gl"
+*** You are running in headless mode.
+Gtk-Message: 19:17:50.492: Failed to load module "appmenu-gtk-module"
+1633612671196	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileti04gl/search.json.mozlz4", (void 0)))
+1633612673994	Marionette	INFO	Listening on port 43331
+1633612674268	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1633629027892	geckodriver	INFO	Listening on 127.0.0.1:41637
+1633629027900	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "-no-remote" "-profile" "/tmp/rust_mozprofileGiarXD"
+*** You are running in headless mode.
+Gtk-Message: 23:50:27.931: Failed to load module "appmenu-gtk-module"
+1633629028546	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileGiarXD/search.json.mozlz4", (void 0)))
+1633629030314	Marionette	INFO	Listening on port 37431
+1633629030439	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1633670760674	geckodriver	INFO	Listening on 127.0.0.1:54013
+1633670761681	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "-no-remote" "-profile" "/tmp/rust_mozprofileO3riSQ"
+*** You are running in headless mode.
+Gtk-Message: 11:26:01.717: Failed to load module "appmenu-gtk-module"
+1633670762409	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileO3riSQ/search.json.mozlz4", (void 0)))
+1633670764456	Marionette	INFO	Listening on port 45019
+1633670764527	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1633670781640	Marionette	INFO	Stopped listening on port 45019
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1633670899416	geckodriver	INFO	Listening on 127.0.0.1:55341
+1633670899428	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "-no-remote" "-profile" "/tmp/rust_mozprofile2hn6CE"
+*** You are running in headless mode.
+Gtk-Message: 11:28:19.492: Failed to load module "appmenu-gtk-module"
+1633670900285	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile2hn6CE/search.json.mozlz4", (void 0)))
+1633670902405	Marionette	INFO	Listening on port 42815
+1633670902493	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1633676936296	Marionette	INFO	Stopped listening on port 42815
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1633677073626	geckodriver	INFO	Listening on 127.0.0.1:54659
+1633677073633	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "-no-remote" "-profile" "/tmp/rust_mozprofileXh7Jqu"
+*** You are running in headless mode.
+Gtk-Message: 13:11:13.660: Failed to load module "appmenu-gtk-module"
+1633677074226	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileXh7Jqu/search.json.mozlz4", (void 0)))
+1633677075897	Marionette	INFO	Listening on port 46345
+1633677075967	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1633677108368	geckodriver	INFO	Listening on 127.0.0.1:36755
+1633677108378	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "-no-remote" "-profile" "/tmp/rust_mozprofilebEKnXB"
+*** You are running in headless mode.
+Gtk-Message: 13:11:48.405: Failed to load module "appmenu-gtk-module"
+1633677108931	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilebEKnXB/search.json.mozlz4", (void 0)))
+1633677110533	Marionette	INFO	Listening on port 42553
+1633677110611	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1633678127662	Marionette	INFO	Stopped listening on port 42553
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1633678220230	geckodriver	INFO	Listening on 127.0.0.1:54181
+1633678220237	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "-no-remote" "-profile" "/tmp/rust_mozprofileSn1wvg"
+*** You are running in headless mode.
+Gtk-Message: 13:30:20.268: Failed to load module "appmenu-gtk-module"
+1633678220798	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileSn1wvg/search.json.mozlz4", (void 0)))
+1633678222322	Marionette	INFO	Listening on port 38401
+1633678222367	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1633679532626	Marionette	INFO	Stopped listening on port 38401
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1633679566219	geckodriver	INFO	Listening on 127.0.0.1:54699
+1633679566227	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "-no-remote" "-profile" "/tmp/rust_mozprofile4V2c5X"
+*** You are running in headless mode.
+Gtk-Message: 13:52:46.255: Failed to load module "appmenu-gtk-module"
+1633679566765	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile4V2c5X/search.json.mozlz4", (void 0)))
+1633679568804	Marionette	INFO	Listening on port 37847
+1633679568886	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1633681308940	Marionette	INFO	Stopped listening on port 37847
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1633681394104	geckodriver	INFO	Listening on 127.0.0.1:33781
+1633681394112	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "-no-remote" "-profile" "/tmp/rust_mozprofilepd4DSY"
+*** You are running in headless mode.
+Gtk-Message: 14:23:14.140: Failed to load module "appmenu-gtk-module"
+1633681394701	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilepd4DSY/search.json.mozlz4", (void 0)))
+1633681398528	Marionette	INFO	Listening on port 42359
+1633681398643	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1633682795982	Marionette	INFO	Stopped listening on port 42359
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1633682878629	geckodriver	INFO	Listening on 127.0.0.1:44311
+1633682878637	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "-no-remote" "-profile" "/tmp/rust_mozprofilepQfYkU"
+*** You are running in headless mode.
+Gtk-Message: 14:47:58.666: Failed to load module "appmenu-gtk-module"
+1633682879180	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilepQfYkU/search.json.mozlz4", (void 0)))
+1633682880737	Marionette	INFO	Listening on port 38815
+1633682880788	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1633684769293	Marionette	INFO	Stopped listening on port 38815
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1633694421008	geckodriver	INFO	Listening on 127.0.0.1:50495
+1633694421015	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "-no-remote" "-profile" "/tmp/rust_mozprofilecrY1zg"
+*** You are running in headless mode.
+Gtk-Message: 18:00:21.045: Failed to load module "appmenu-gtk-module"
+1633694421575	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilecrY1zg/search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+1633694423257	Marionette	INFO	Listening on port 44915
+1633694423348	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1633694423547	Marionette	INFO	Stopped listening on port 44915
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1633694440643	geckodriver	INFO	Listening on 127.0.0.1:55713
+1633694440650	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "-no-remote" "-profile" "/tmp/rust_mozprofilePzTIEf"
+*** You are running in headless mode.
+Gtk-Message: 18:00:40.677: Failed to load module "appmenu-gtk-module"
+1633694441194	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilePzTIEf/search.json.mozlz4", (void 0)))
+1633694442736	Marionette	INFO	Listening on port 44461
+1633694442782	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1633694851208	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: timeout
+1633695953632	Marionette	INFO	Stopped listening on port 44461
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1633697061399	geckodriver	INFO	Listening on 127.0.0.1:39205
+1633697061406	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "-no-remote" "-profile" "/tmp/rust_mozprofilel6CUfC"
+*** You are running in headless mode.
+Gtk-Message: 18:44:21.434: Failed to load module "appmenu-gtk-module"
+1633697061973	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilel6CUfC/search.json.mozlz4", (void 0)))
+1633697063552	Marionette	INFO	Listening on port 45167
+1633697063642	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1633698216226	Marionette	INFO	Stopped listening on port 45167
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1633707819736	geckodriver	INFO	Listening on 127.0.0.1:42815
+1633707820746	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "-no-remote" "-profile" "/tmp/rust_mozprofileAAhAtf"
+*** You are running in headless mode.
+Gtk-Message: 21:43:40.824: Failed to load module "appmenu-gtk-module"
+1633707821476	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileAAhAtf/search.json.mozlz4", (void 0)))
+1633707823004	Marionette	INFO	Listening on port 40163
+1633707823076	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1633713603825	Marionette	INFO	Stopped listening on port 40163
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
